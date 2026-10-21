@@ -15,3 +15,16 @@ A student at Osaka Metropolitan University. I came from competitive programming,
 ### Links
 
 [Kaggle](https://www.kaggle.com/shiiin9)
+
+### Leaderboard
+
+<table>
+  <tr>
+    <td align="center"><b>ARC-AGI-3 — 7th</b>（2026-09-09）</td>
+    <td align="center"><b>ARC-AGI-2 — 17th</b>（2026-10-15）</td>
+  </tr>
+  <tr>
+    <td><img src="images/arc-agi-3_lb_2026-09-09_rank7.png" alt="ARC-AGI-3 public leaderboard, 7th" width="420"></td>
+    <td><img src="images/arc-agi-2_lb_2026-10-15_rank17.png" alt="ARC-AGI-2 public leaderboard, 17th" width="420"></td>
+  </tr>
+</table>
