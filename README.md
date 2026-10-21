@@ -23,16 +23,15 @@ A student at Osaka Metropolitan University. I started programming through compet
 
 ### Leaderboard
 
-<table>
-  <tr>
-    <td align="center"><b>ARC-AGI-3 — 7th</b>（2026-09-09）</td>
-    <td align="center"><b>ARC-AGI-2 — 17th</b>（2026-10-15）</td>
-  </tr>
-  <tr>
-    <td><img src="images/arc-agi-3_lb_2026-09-09_rank7.png" alt="ARC-AGI-3 public leaderboard, 7th" width="420"></td>
-    <td><img src="images/arc-agi-2_lb_2026-10-15_rank17.png" alt="ARC-AGI-2 public leaderboard, 17th" width="420"></td>
-  </tr>
-</table>
+**ARC-AGI-3 — 7th**（2026-09-09）
+
+<a href="images/arc-agi-3_lb_2026-09-09_rank7.png"><img src="images/arc-agi-3_rank7_crop.png" alt="ARC-AGI-3 public leaderboard on 2026-09-09: 7th, AFF AI CLUB, 5.68" width="860"></a>
+
+**ARC-AGI-2 — 17th**（2026-10-15）
+
+<a href="images/arc-agi-2_lb_2026-10-15_rank17.png"><img src="images/arc-agi-2_rank17_crop.png" alt="ARC-AGI-2 public leaderboard on 2026-10-15: 17th, 52.08" width="860"></a>
+
+<sub>画像をクリックすると画面全体のスクリーンショットを開きます / Click an image for the full screenshot.</sub>
 
 ### Graffiti Conjecture 322
 
