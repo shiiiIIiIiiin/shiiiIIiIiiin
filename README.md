@@ -2,8 +2,8 @@
 
 ## Shin Kimura（木村心）
 
-大阪公立大学の学生です。競技プログラミングから入り、今は Kaggle に取り組んでいます。IT 企業でアルバイトもしています。<br>
-A student at Osaka Metropolitan University. I came from competitive programming, and now compete on Kaggle. I also work part-time at an IT company.
+大阪公立大学の学生です。競技プログラミングから入り、今は Kaggle に取り組んでいます。IT 企業でソフトウェアエンジニアとしてアルバイトもしています。<br>
+A student at Osaka Metropolitan University. I came from competitive programming, and now compete on Kaggle. I also work part-time as a software engineer at an IT company.
 
 ### 実績 / Highlights
 
