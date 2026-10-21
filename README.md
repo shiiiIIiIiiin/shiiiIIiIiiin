@@ -1,9 +1,14 @@
+<img src="images/banner.svg" alt="Shin Kimura — ARC-AGI-3 best 7th, #1 public notebook; ARC-AGI-2 best 17th (solo); Graffiti conjecture 322 disproved with Claude" width="900">
+
 ## Shin Kimura（木村心）
 
 大阪公立大学の学生です。競技プログラミングから入り、今は Kaggle に取り組んでいます。<br>
 A student at Osaka Metropolitan University. I came from competitive programming, and now compete on Kaggle.
 
 ### 実績 / Highlights
+
+> ARC Prize 2026 は**競技中**です（2026年10月時点）。順位は公開リーダーボードのもので、最終順位ではありません。<br>
+> ARC Prize 2026 is **still running** (as of October 2026). Ranks are from the public leaderboard, not final standings.
 
 - **ARC Prize 2026 — ARC-AGI-3**：公開LB **全体最高7位**、公開ノートブックでパブリックスコア **1位**（チーム）<br>
   Best **7th overall** on the public leaderboard, **#1 public notebook** by public score (team) → [arc-prize-2026-arc-agi-3](https://github.com/shiiiIIiIiiin/arc-prize-2026-arc-agi-3)
