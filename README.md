@@ -1,7 +1,7 @@
 ## Shin Kimura（木村心）
 
-大阪公立大学の学生です。競技プログラミングから入り、今は Kaggle に取り組んでいます。最近は、数学の未解決問題を Claude に探させて、まとめて解かせることもしました。<br>
-A student at Osaka Metropolitan University. I came from competitive programming, and now compete on Kaggle. Recently I also had Claude find open math problems and solve a batch of them.
+大阪公立大学の学生です。競技プログラミングから入り、今は Kaggle に取り組んでいます。<br>
+A student at Osaka Metropolitan University. I came from competitive programming, and now compete on Kaggle.
 
 ### 実績 / Highlights
 
