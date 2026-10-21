@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.5" y="0.5" width="859" height="329" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+
+  <text x="32" y="48" font-size="22" font-weight="700" fill="#1f2328">Graffiti Conjecture 322 — <tspan fill="#cf222e">disproved</tspan></text>
+  <text x="32" y="76" font-size="14" fill="#59636e">“If G is triangle-free, then Inverse Even ≤ range of eigenvalues of Distance.”</text>
+  <text x="32" y="96" font-size="12" fill="#59636e">S. Fajtlowicz, Written on the Wall (2004)</text>
+
+  <text x="32" y="138" font-size="14" font-weight="600" fill="#1f2328">Counterexample: coset graph of the binary Golay code [23,12,7]</text>
+  <text x="32" y="158" font-size="13" fill="#59636e">2048 vertices · 23-regular · triangle-free</text>
+
+  <!-- vertices at each distance from a fixed vertex -->
+  <g font-size="12" text-anchor="middle">
+    <text x="32" y="192" text-anchor="start" fill="#59636e">vertices at distance d from any vertex</text>
+    <rect x="32"  y="204" width="70"  height="40" rx="6" fill="#ddf4ff" stroke="#0969da"/>
+    <rect x="114" y="204" width="70"  height="40" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+    <rect x="196" y="204" width="90"  height="40" rx="6" fill="#ddf4ff" stroke="#0969da"/>
+    <rect x="298" y="204" width="110" height="40" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="67"  y="221" fill="#59636e">d = 0</text><text x="67"  y="238" font-size="14" font-weight="700" fill="#0969da">1</text>
+    <text x="149" y="221" fill="#59636e">d = 1</text><text x="149" y="238" font-size="14" font-weight="700" fill="#1f2328">23</text>
+    <text x="241" y="221" fill="#59636e">d = 2</text><text x="241" y="238" font-size="14" font-weight="700" fill="#0969da">253</text>
+    <text x="353" y="221" fill="#59636e">d = 3</text><text x="353" y="238" font-size="14" font-weight="700" fill="#1f2328">1771</text>
+    <text x="32" y="270" text-anchor="start" fill="#0969da">Even(v) = 1 + 253 = 254 for every vertex</text>
+  </g>
+
+  <!-- the failed inequality -->
+  <line x1="450" y1="128" x2="450" y2="296" stroke="#d0d7de"/>
+  <g text-anchor="middle">
+    <text x="560" y="168" font-size="13" fill="#59636e">Inverse Even</text>
+    <text x="560" y="214" font-size="40" font-weight="700" fill="#1f2328">8.06</text>
+    <text x="560" y="238" font-size="12" fill="#59636e">2048 / 254 = 1024 / 127</text>
+    <text x="660" y="214" font-size="40" font-weight="700" fill="#cf222e">&gt;</text>
+    <text x="760" y="168" font-size="13" fill="#59636e">range of Distance spectrum</text>
+    <text x="760" y="214" font-size="40" font-weight="700" fill="#1f2328">4</text>
+    <text x="760" y="238" font-size="12" fill="#59636e">5842, 10, −14, −30</text>
+  </g>
+
+  <text x="32" y="312" font-size="12" fill="#59636e">Found with Claude · verified by exact integer computation · github.com/shiiiIIiIiiin/graffiti-322-counterexample</text>
+</svg>

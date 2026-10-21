@@ -28,3 +28,7 @@ A student at Osaka Metropolitan University. I came from competitive programming,
     <td><img src="images/arc-agi-2_lb_2026-10-15_rank17.png" alt="ARC-AGI-2 public leaderboard, 17th" width="420"></td>
   </tr>
 </table>
+
+### Graffiti Conjecture 322
+
+<a href="https://github.com/shiiiIIiIiiin/graffiti-322-counterexample"><img src="images/graffiti-322.svg" alt="Graffiti Conjecture 322 disproved: Inverse Even 8.06 > 4 = range of Distance spectrum, on the 2048-vertex coset graph of the binary Golay code" width="860"></a>
