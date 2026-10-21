@@ -25,14 +25,12 @@ A student at Osaka Metropolitan University. I started programming through compet
 
 **ARC-AGI-3 — 7th**（2026-09-09）
 
-<a href="images/arc-agi-3_lb_2026-09-09_rank7.png"><img src="images/arc-agi-3_rank7_crop.png" alt="ARC-AGI-3 public leaderboard on 2026-09-09: 7th, AFF AI CLUB, 5.68" width="860"></a>
+<img src="images/arc-agi-3_lb_2026-09-09_rank7.png" alt="ARC-AGI-3 public leaderboard on 2026-09-09: 7th, AFF AI CLUB, 5.68" width="860">
 
 **ARC-AGI-2 — 17th**（2026-10-15）
 
-<a href="images/arc-agi-2_lb_2026-10-15_rank17.png"><img src="images/arc-agi-2_rank17_crop.png" alt="ARC-AGI-2 public leaderboard on 2026-10-15: 17th, 52.08" width="860"></a>
-
-<sub>画像をクリックすると画面全体のスクリーンショットを開きます / Click an image for the full screenshot.</sub>
+<img src="images/arc-agi-2_lb_2026-10-15_rank17.png" alt="ARC-AGI-2 public leaderboard on 2026-10-15: 17th, 52.08" width="860">
 
 ### Graffiti Conjecture 322
 
-<a href="https://github.com/shiiiIIiIiiin/graffiti-322-counterexample"><img src="images/graffiti-322.svg" alt="Graffiti Conjecture 322 disproved: Inverse Even 4.41 > 3 = range of Distance spectrum, on the 1024-vertex coset graph of the punctured Golay code" width="860"></a>
+<a href="https://github.com/shiiiIIiIiiin/graffiti-322-counterexample"><img src="images/graffiti-322.svg" alt="Graffiti Conjecture 322 disproved: Inverse Even 4.41 > 3 = range of Distance spectrum, on the 1024-vertex coset graph of the punctured Golay code" width="860">
